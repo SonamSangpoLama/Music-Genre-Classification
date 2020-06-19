@@ -45,15 +45,15 @@ Companies like Spotify, Soundcloud, Apple Music, Wynk & products like Shazam use
 
 # Demo
 ------
-  Direct Access to File: https://drive.google.com/drive/folders/1RDcWM-zZ01qm9JnqjduEulkMql-lfP8Q?usp=sharing
+Direct Access to File: https://drive.google.com/drive/folders/1RDcWM-zZ01qm9JnqjduEulkMql-lfP8Q?usp=sharing
                                    OR
 								   
-  Register: https://drive.google.com/file/d/121nkyS3Hhpg678sMs0nXWe3ngaREld-q/view?usp=sharing
-  Login: https://drive.google.com/file/d/1wXhtl-NxBTGZYTJnz058W0qXipndY6zh/view?usp=sharing
-  User View Page: https://drive.google.com/file/d/1NpLYWZnfWrjND878951eRd7tcvc2EtZd/view?usp=sharing
-  Admin Login: https://drive.google.com/file/d/1xcrFS59OxHAr2LjC5WhcX-WkzAG5oo23/view?usp=sharing
-  Admin View Page: https://drive.google.com/file/d/1wnCxlKoyuV5FitFgokAsfahNK_IQaniu/view?usp=sharing
-  Album: https://drive.google.com/file/d/1FPEfj2t_O25z2L1ehWIV5pwFR4BQSXwH/view?usp=sharing
-  Song: https://drive.google.com/file/d/1Jo-AmFxkiR5nO-Eqi5BUOI2khqhZ4oRe/view?usp=sharing
-  Genre Classification: https://drive.google.com/file/d/1tAMtgRekXx72aZZH9A5mUlJeK7qQEFKr/view?usp=sharing
+Register: https://drive.google.com/file/d/121nkyS3Hhpg678sMs0nXWe3ngaREld-q/view?usp=sharing
+Login: https://drive.google.com/file/d/1wXhtl-NxBTGZYTJnz058W0qXipndY6zh/view?usp=sharing
+User View Page: https://drive.google.com/file/d/1NpLYWZnfWrjND878951eRd7tcvc2EtZd/view?usp=sharing
+Admin Login: https://drive.google.com/file/d/1xcrFS59OxHAr2LjC5WhcX-WkzAG5oo23/view?usp=sharing
+Admin View Page: https://drive.google.com/file/d/1wnCxlKoyuV5FitFgokAsfahNK_IQaniu/view?usp=sharing
+Album: https://drive.google.com/file/d/1FPEfj2t_O25z2L1ehWIV5pwFR4BQSXwH/view?usp=sharing
+Song: https://drive.google.com/file/d/1Jo-AmFxkiR5nO-Eqi5BUOI2khqhZ4oRe/view?usp=sharing
+Genre Classification: https://drive.google.com/file/d/1tAMtgRekXx72aZZH9A5mUlJeK7qQEFKr/view?usp=sharing
 
