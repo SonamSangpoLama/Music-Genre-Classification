@@ -1,6 +1,6 @@
 
 # KNN and ANN Classifier for Training Data
-====================================
+-------------------------------------------
 The K-Nearest Neighbour (KNN) algorithm assumes that similar items and things that exists in close distances or proximity. In music genre classification, K-Nearest Neighbour (KNN) algorithms help to find out the similar genre of music near to each other and can be beneficial for recommending alike music to listeners. The KNN algorithm will select the right K(n) that is used for labelling the prediction of an actual data. The implementation of KNN is versatile and high accuracy with quick computing calculation time. But, the accuracy of output is totally depending on the properties of data
 
 Artificial neural network (ANN) is simply known as neural network where a system is designed after human brain that also respond and mimic human brain for making decision. The networks of ANN consist of three layers called input layers, output layers and hidden layers. The composition of layers is very similar to the building of neural networks in human brain.  The use of ANN algorithm has been seen in every field like recognizing face when unlocking your phone, classifying images for security and giving command in forms of voice. The implementation of ANN algorithm can handle huge amounts of available data and has higher performing rate. It also solves such problems that human may not be able to figure out. But using ANN, it takes quite longer time for training the model.
