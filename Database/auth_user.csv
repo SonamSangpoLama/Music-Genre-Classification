@@ -1,0 +1,5 @@
+id,password,last_login,is_superuser,username,first_name,last_name,email,is_staff,is_active,date_joined
+2,pbkdf2_sha256$180000$aR2mxf4JWIm4$aMtte40fxqwlo0Ydf5c+PN0TRXA3kZFV41EtWU9r+FM=,2020-05-06 15:41:16.268959+05:45,FALSE,AashishThapa,,,A@gmail.com,FALSE,TRUE,2020-05-06 15:32:23.785059+05:45
+4,pbkdf2_sha256$180000$m7fnoIma0aOa$NIE3NXDRBo7uqwiT4by2NgDq29RFIUBGRrqdKWhUIbM=,2020-06-18 13:41:41.527965+05:45,FALSE,pema,,,pema9@gmail.com,FALSE,TRUE,2020-06-18 13:41:27.229817+05:45
+3,pbkdf2_sha256$180000$YsGtGASioElP$sWx+7rppNHvzpeCYelySL9I/23u+RjPLBOgQz3ddD+Q=,2020-06-19 16:38:37.815172+05:45,FALSE,sangpo,,,lamasangpo078@gmail.com,FALSE,TRUE,2020-05-06 16:15:53.820049+05:45
+1,pbkdf2_sha256$180000$H0r2BuL9t3n9$A+Uynym33boAnHH8r26ShRnFo+L4EyD4jsyF45K/rZ8=,2020-06-19 16:39:55.008697+05:45,TRUE,sonamsangpolama,Sangpo,Lama,sandy99@gmail.com,TRUE,TRUE,2020-05-06 15:25:50+05:45
