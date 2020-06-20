@@ -5,6 +5,12 @@ The K-Nearest Neighbour (KNN) algorithm assumes that similar items and things th
 
 Artificial neural network (ANN) is simply known as neural network where a system is designed after human brain that also respond and mimic human brain for making decision. The networks of ANN consist of three layers called input layers, output layers and hidden layers. The composition of layers is very similar to the building of neural networks in human brain.  The use of ANN algorithm has been seen in every field like recognizing face when unlocking your phone, classifying images for security and giving command in forms of voice. The implementation of ANN algorithm can handle huge amounts of available data and has higher performing rate. It also solves such problems that human may not be able to figure out. But using ANN, it takes quite longer time for training the model.
 
+# System 
+---------
+![album](https://user-images.githubusercontent.com/59358909/85204073-a28adb80-b331-11ea-843b-a8156d032361.JPG)
+
+
+
 # Accuracy
 --------
 ** Training (at Epoch 200):
@@ -37,6 +43,13 @@ Drive Link for audio dataset: https://drive.google.com/drive/folders/1IIjX9NKR29
 ----------
 [Music Genre Classification | Licence](./LICENSE)
 
+# Overall System Architecture
+-----------------------------
+
+![Architecture of Music Genre Classification](https://user-images.githubusercontent.com/59358909/85203957-d9142680-b330-11ea-8feb-091d52a340e5.png)
+
+
+
 # Overview & Background
 ----------------------
 Music genres is the taste, style and relax giving flow of a music. The genre of music refers to multiple types and categorization of music. The different types of famous music genre that we widely known are rock, jazz, reggae, classical, folk, blues, R & B, metal, dubstep, techno, country music, electro and pop. The key success of music in music industry is the genres of classified music that becomes a significant part of communicating music that provides bonding with relatively to human and masses of people. In contrast, the genre that falls under top-level style of rock are punk, indie, shoegaze, AOR and metal. They are basically subgenre of a music classification and it is important describing music to other people. In practical life, music is often used for multiple purposes due to physiological and social effects.  
@@ -65,4 +78,7 @@ Song: https://drive.google.com/file/d/1Jo-AmFxkiR5nO-Eqi5BUOI2khqhZ4oRe/view?usp
 
 Genre Classification: https://drive.google.com/file/d/1tAMtgRekXx72aZZH9A5mUlJeK7qQEFKr/view?usp=sharing
 
+# Flowchart or Activity Diagram
+---------------------------------
+![Activity Diagram](https://user-images.githubusercontent.com/59358909/85204021-5770c880-b331-11ea-8537-ddc68864a8dc.jpg)
 
